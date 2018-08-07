@@ -1,0 +1,11 @@
+F:\ETEC\DS I\Exercicio Animais Douglas Almeida\ProjetoAnimaisDouglas\ProjetoAnimaisDouglas\bin\Debug\ProjetoAnimaisDouglas.exe
+F:\ETEC\DS I\Exercicio Animais Douglas Almeida\ProjetoAnimaisDouglas\ProjetoAnimaisDouglas\bin\Debug\ProjetoAnimaisDouglas.pdb
+F:\ETEC\DS I\Exercicio Animais Douglas Almeida\ProjetoAnimaisDouglas\ProjetoAnimaisDouglas\obj\x86\Debug\ProjetoAnimaisDouglas.exe
+F:\ETEC\DS I\Exercicio Animais Douglas Almeida\ProjetoAnimaisDouglas\ProjetoAnimaisDouglas\obj\x86\Debug\ProjetoAnimaisDouglas.pdb
+G:\ETEC\2° Módulo\DS I\Exercicio Animais Douglas Almeida\ProjetoAnimaisDouglas\ProjetoAnimaisDouglas\obj\x86\Debug\ProjetoAnimaisDouglas.exe
+G:\ETEC\2° Módulo\DS I\Exercicio Animais Douglas Almeida\ProjetoAnimaisDouglas\ProjetoAnimaisDouglas\obj\x86\Debug\ProjetoAnimaisDouglas.pdb
+G:\ETEC\2° Módulo\DS I\Exercicio Animais Douglas Almeida\ProjetoAnimaisDouglas\ProjetoAnimaisDouglas\bin\Debug\ProjetoAnimaisDouglas.exe
+G:\ETEC\2° Módulo\DS I\Exercicio Animais Douglas Almeida\ProjetoAnimaisDouglas\ProjetoAnimaisDouglas\bin\Debug\ProjetoAnimaisDouglas.pdb
+G:\ETEC\2° Módulo\DS I\Exercicio Animais Douglas Almeida\ProjetoAnimaisDouglas\ProjetoAnimaisDouglas\obj\x86\Debug\ProjetoAnimaisDouglas.csprojResolveAssemblyReference.cache
+G:\ETEC\2° Módulo\DS I\Exercicios\Exercicio Animais\ProjetoAnimaisDouglas\ProjetoAnimaisDouglas\obj\x86\Debug\ProjetoAnimaisDouglas.exe
+G:\ETEC\2° Módulo\DS I\Exercicios\Exercicio Animais\ProjetoAnimaisDouglas\ProjetoAnimaisDouglas\obj\x86\Debug\ProjetoAnimaisDouglas.pdb

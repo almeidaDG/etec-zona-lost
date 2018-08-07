@@ -1,0 +1,5 @@
+G:\ETEC\DS I\Exercicios\Exercicio06\Exercicio06\bin\Debug\Exercicio06.exe
+G:\ETEC\DS I\Exercicios\Exercicio06\Exercicio06\bin\Debug\Exercicio06.pdb
+G:\ETEC\DS I\Exercicios\Exercicio06\Exercicio06\obj\x86\Debug\Exercicio06.exe
+G:\ETEC\DS I\Exercicios\Exercicio06\Exercicio06\obj\x86\Debug\Exercicio06.pdb
+G:\ETEC\DS I\Exercicios\Exercicio06\Exercicio06\obj\x86\Debug\Exercicio06.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+
+public class Exercicio2 {
+
+	public static void main(String[]args){
+		double resto;
+		
+		resto = 99 % 4;
+		
+		int resto = (int) resto;
+		
+		System.out.println("O resto da divisão é: " +resto);
+	}
+}

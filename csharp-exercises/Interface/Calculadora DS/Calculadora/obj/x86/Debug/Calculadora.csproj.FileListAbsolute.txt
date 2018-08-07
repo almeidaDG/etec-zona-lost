@@ -1,0 +1,31 @@
+C:\Users\Aluno\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Aluno\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Aluno\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.frmCalculadora.resources
+C:\Users\Aluno\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\Aluno\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora\Calculadora\obj\x86\Debug\Calculadora.frmCalculadora.resources
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+F:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+F:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+F:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+F:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+F:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora\Calculadora\obj\x86\Debug\Calculadora.frmCalculadora.resources
+F:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+F:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+F:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csprojResolveAssemblyReference.cache
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csprojResolveAssemblyReference.cache
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora Douglas Almeida\Calculadora\obj\x86\Debug\Calculadora.exe
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora Douglas Almeida\Calculadora\obj\x86\Debug\Calculadora.pdb
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora Douglas Almeida\Calculadora\bin\Debug\Calculadora.exe
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora Douglas Almeida\Calculadora\bin\Debug\Calculadora.pdb
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora Douglas Almeida\Calculadora\obj\x86\Debug\Calculadora.csprojResolveAssemblyReference.cache
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora Douglas Almeida\Calculadora\obj\x86\Debug\Calculadora.frmCalculadora.resources
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora Douglas Almeida\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Calculadora Douglas Almeida\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache

@@ -1,0 +1,21 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\Media\obj\x86\Debug\Media.frmMedia.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Media\obj\x86\Debug\Media.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Media\obj\x86\Debug\Media.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\Media\bin\Debug\Media.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Media\bin\Debug\Media.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Media\obj\x86\Debug\Media.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Media\obj\x86\Debug\Media.pdb
+C:\Users\Aluno\Desktop\Media\Media\obj\x86\Debug\Media.exe
+C:\Users\Aluno\Desktop\Media\Media\obj\x86\Debug\Media.pdb
+C:\Users\Aluno\Desktop\Media\Media\bin\Debug\Media.exe
+C:\Users\Aluno\Desktop\Media\Media\bin\Debug\Media.pdb
+C:\Users\Aluno\Desktop\Media\Media\obj\x86\Debug\Media.frmMedia.resources
+C:\Users\Aluno\Desktop\Media\Media\obj\x86\Debug\Media.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Media\Media\obj\x86\Debug\Media.csproj.GenerateResource.Cache
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Media\Media\obj\x86\Debug\Media.exe
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Media\Media\obj\x86\Debug\Media.pdb
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Media\Media\bin\Debug\Media.exe
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Media\Media\bin\Debug\Media.pdb
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Media\Media\obj\x86\Debug\Media.frmMedia.resources
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Media\Media\obj\x86\Debug\Media.Properties.Resources.resources
+G:\ETEC\2° Módulo\DS I\Exercicios\Interface\Media\Media\obj\x86\Debug\Media.csproj.GenerateResource.Cache

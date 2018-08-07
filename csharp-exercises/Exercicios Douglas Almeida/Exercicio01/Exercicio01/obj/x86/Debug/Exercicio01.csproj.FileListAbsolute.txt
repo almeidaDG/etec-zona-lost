@@ -1,0 +1,4 @@
+G:\ETEC\DS I\Exercicios\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe
+G:\ETEC\DS I\Exercicios\Exercicio01\Exercicio01\bin\Debug\Exercicio01.pdb
+G:\ETEC\DS I\Exercicios\Exercicio01\Exercicio01\obj\x86\Debug\Exercicio01.exe
+G:\ETEC\DS I\Exercicios\Exercicio01\Exercicio01\obj\x86\Debug\Exercicio01.pdb

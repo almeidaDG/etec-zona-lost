@@ -1,0 +1,13 @@
+
+public class Exercicio4 {
+
+	public static void main(String[]args){
+		double result;
+		
+		result = 8 + 8 + 8 + 8 + 8;
+				
+		System.out.println("5 multiplicado por 8 é: " +result);
+		
+		
+	}
+}

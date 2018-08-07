@@ -1,0 +1,6 @@
+G:\ETEC\DS I\Projeto 1\Escola\Escola\bin\Debug\Escola.exe
+G:\ETEC\DS I\Projeto 1\Escola\Escola\bin\Debug\Escola.pdb
+G:\ETEC\DS I\Projeto 1\Escola\Escola\obj\x86\Debug\Escola.exe
+G:\ETEC\DS I\Projeto 1\Escola\Escola\obj\x86\Debug\Escola.pdb
+G:\ETEC\DS I\Projeto 1 Escola\Escola\Escola\obj\x86\Debug\Escola.exe
+G:\ETEC\DS I\Projeto 1 Escola\Escola\Escola\obj\x86\Debug\Escola.pdb

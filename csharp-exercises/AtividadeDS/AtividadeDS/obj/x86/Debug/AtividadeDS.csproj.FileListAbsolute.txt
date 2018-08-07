@@ -1,0 +1,38 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\AtividadeDS\bin\Debug\AtividadeDS.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\AtividadeDS\bin\Debug\AtividadeDS.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\AtividadeDS\obj\x86\Debug\AtividadeDS.frmMenu.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\AtividadeDS\obj\x86\Debug\AtividadeDS.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\AtividadeDS\obj\x86\Debug\AtividadeDS.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\AtividadeDS\obj\x86\Debug\AtividadeDS.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\AtividadeDS\obj\x86\Debug\AtividadeDS.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\AtividadeDS\obj\x86\Debug\AtividadeDS.frmAtividade1.resources
+G:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.exe
+G:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.pdb
+G:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.frmMenu.resources
+G:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.frmAtividade1.resources
+G:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.frmAtividade2.resources
+G:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.frmAtividade3.resources
+G:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.frmAtividade4.resources
+G:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.frmAtividade5.resources
+G:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.frmAtividade6.resources
+G:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.frmAtividade7.resources
+G:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.Properties.Resources.resources
+G:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.csproj.GenerateResource.Cache
+G:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\bin\Debug\AtividadeDS.exe
+G:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\bin\Debug\AtividadeDS.pdb
+G:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.csprojResolveAssemblyReference.cache
+F:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.exe
+F:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.pdb
+F:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\bin\Debug\AtividadeDS.exe
+F:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\bin\Debug\AtividadeDS.pdb
+F:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.csprojResolveAssemblyReference.cache
+F:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.frmMenu.resources
+F:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.frmAtividade1.resources
+F:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.frmAtividade2.resources
+F:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.frmAtividade3.resources
+F:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.frmAtividade4.resources
+F:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.frmAtividade5.resources
+F:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.frmAtividade6.resources
+F:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.frmAtividade7.resources
+F:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.Properties.Resources.resources
+F:\ETEC\2° Módulo\DS I\Exercicios\AtividadeDS\AtividadeDS\obj\x86\Debug\AtividadeDS.csproj.GenerateResource.Cache

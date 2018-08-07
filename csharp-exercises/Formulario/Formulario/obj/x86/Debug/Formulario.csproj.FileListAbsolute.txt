@@ -1,0 +1,11 @@
+F:\ETEC\2° Módulo\DS I\Exercicios\Formulario\Formulario\bin\Debug\Formulario.exe
+F:\ETEC\2° Módulo\DS I\Exercicios\Formulario\Formulario\bin\Debug\Formulario.pdb
+F:\ETEC\2° Módulo\DS I\Exercicios\Formulario\Formulario\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ETEC\2° Módulo\DS I\Exercicios\Formulario\Formulario\obj\x86\Debug\Formulario.frmMenu.resources
+F:\ETEC\2° Módulo\DS I\Exercicios\Formulario\Formulario\obj\x86\Debug\Formulario.frmTeste1.resources
+F:\ETEC\2° Módulo\DS I\Exercicios\Formulario\Formulario\obj\x86\Debug\Formulario.frmTeste2.resources
+F:\ETEC\2° Módulo\DS I\Exercicios\Formulario\Formulario\obj\x86\Debug\Formulario.Properties.Resources.resources
+F:\ETEC\2° Módulo\DS I\Exercicios\Formulario\Formulario\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ETEC\2° Módulo\DS I\Exercicios\Formulario\Formulario\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ETEC\2° Módulo\DS I\Exercicios\Formulario\Formulario\obj\x86\Debug\Formulario.exe
+F:\ETEC\2° Módulo\DS I\Exercicios\Formulario\Formulario\obj\x86\Debug\Formulario.pdb
