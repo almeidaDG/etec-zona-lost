@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<link rel = "stylesheet" href = "https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+    <script src = "https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src = "https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+	
+	<style type="text/css">
+        #map {
+        height: 600px;
+        }
+
+        </style>		
+		
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+        <link rel="stylesheet" type="text/css" href="css/index.css">
+        <title>Hello World</title>
+
+		<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB6olVX64q598YGBgx-Jl1Ql3advwCgzNw"></script>		
+		<script src="./js/gmapsutils.js"></script>
+    </head>
+    <body>
+        <div data-role = "footer"  data-theme = "a">
+            <div data-role = "navbar">
+                <ul>
+                    <li><a href = "/jquery_mobile/src/navbar_persistent.html">Mapa</a></li>    
+                    <li><a href = "/jquery_mobile/src/page_one.html" >Satélite</a></li>
+                    <li><a href = "/jquery_mobile/src/page_two.html">Endereço</a></li>
+                    <li><a href = "/jquery_mobile/src/page_three.html">Rotas</a></li>
+                </ul>
+            </div>
+        </div>
+		<div id="map"></div>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+    </body>
+</html>
