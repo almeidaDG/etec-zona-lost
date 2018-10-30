@@ -1,0 +1,9 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProgramaModoOffline\bin\Debug\ProgramaModoOffline.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProgramaModoOffline\bin\Debug\ProgramaModoOffline.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProgramaModoOffline\obj\x86\Debug\ProgramaModoOffline.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProgramaModoOffline\obj\x86\Debug\ProgramaModoOffline.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProgramaModoOffline\obj\x86\Debug\ProgramaModoOffline.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProgramaModoOffline\obj\x86\Debug\ProgramaModoOffline.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProgramaModoOffline\obj\x86\Debug\ProgramaModoOffline.pdb
+C:\Users\Aluno\Desktop\ProgramaModoOffline\ProgramaModoOffline\obj\x86\Debug\ProgramaModoOffline.exe
+C:\Users\Aluno\Desktop\ProgramaModoOffline\ProgramaModoOffline\obj\x86\Debug\ProgramaModoOffline.pdb
